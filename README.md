@@ -9,6 +9,7 @@ Twltrus provides freshness such as citrus fruits. So, development focuses on sim
 - Retweet
 - UserList
 - TweetsSearch
+- Profile
 - Follow/Unfollow
 
 ## Support Account
