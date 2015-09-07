@@ -11,9 +11,10 @@ Twltrus provides freshness such as citrus fruits. So, development focuses on sim
 - TweetsSearch
 - Profile
 - Follow/Unfollow
+- ImagePreview
 
 ## LastUpdate
-Jul/29/2015
+Sep/07/2015
 
 ## Support Account
 [@Twltrus](https://twitter.com/Twltrus)
