@@ -1,22 +1,23 @@
 # Twltrus_for_twitter
 ## Fresh Twitter Experience
-Twltrus provides freshness such as citrus fruits. So, development focuses on simplicity, minimalism, and pliant. And we designed Twltrus to be comfortable to use as anyone. But, Twltrus is not just simple, but also useful. You will probably be quite happy. Welcome to Twltrus!
+Twltrus is simple Twitter client provide a fresh experience for your Android devices.
 
 ## Feature
 - UserStream
 - Tweet
-- Favorite
+- Like
 - Retweet
 - UserList
 - TweetsSearch
 - Profile
 - Follow/Unfollow
+- Block/UnBlock
 - ImagePreview
 - Mute
-- Photo tweet
+- Photo tweets
 
 ## LastUpdate
-Dec/25/2015
+Jan/25/2016
 
 ## Support Account
 [@Twltrus](https://twitter.com/Twltrus)
