@@ -8,16 +8,17 @@ Twltrus is simple Twitter client provide a fresh experience for your Android dev
 - Like
 - Retweet
 - UserList
-- TweetsSearch
+- TweetSearch
 - Profile
-- Follow/Unfollow
+- Follow/UnFollow
 - Block/UnBlock
 - ImagePreview
-- Mute
-- Photo tweets
+- TextMute
+- ClientMute
+- PhotoTweet
 
 ## LastUpdate
-Jan/25/2016
+Feb/05/2016
 
 ## Support Account
 [@Twltrus](https://twitter.com/Twltrus)
