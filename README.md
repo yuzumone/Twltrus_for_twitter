@@ -18,7 +18,7 @@ Twltrus is simple Twitter client provide a fresh experience for your Android dev
 - PhotoTweet
 
 ## LastUpdate
-Feb/05/2016
+Mar/01/2016
 
 ## Support Account
 [@Twltrus](https://twitter.com/Twltrus)
