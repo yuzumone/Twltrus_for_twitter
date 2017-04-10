@@ -2,7 +2,7 @@
 [![platform android](https://img.shields.io/badge/platform-android-green.svg)](#)
 [![minSdkVersion 16](https://img.shields.io/badge/minSdkVersion-16-red.svg)](#)
 [![compileSdkVersion 25](https://img.shields.io/badge/compileSdkVersion-25-yellow.svg)](#)
-[![version v0.6.7](https://img.shields.io/badge/version-v0.6.7-blue.svg)](#)
+[![version v0.6.8](https://img.shields.io/badge/version-v0.6.8-blue.svg)](#)
 
 ## Fresh Twitter Experience
 Twltrus is simple Twitter client provide a fresh experience for your Android devices.
@@ -24,7 +24,7 @@ Twltrus is simple Twitter client provide a fresh experience for your Android dev
 - DirectMessage
 
 ## LastUpdate
-Mar/08/2017
+Apr/10/2017
 
 ## Support Account
 [@Twltrus](https://twitter.com/Twltrus)
