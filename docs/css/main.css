@@ -10,6 +10,10 @@ body {
 	color: #FFFFFF;
 	font-size: 62px;
 }
+#subtitle {
+	color: #FFFFFF;
+	font-size: 18px;
+}
 figcaption {
 	font-size: 18px;
 	padding-top: 8px;

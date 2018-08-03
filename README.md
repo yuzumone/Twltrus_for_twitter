@@ -10,7 +10,7 @@ Twltrus is simple Twitter client provide a fresh experience for your Android dev
 ## Note
 Twitter annaounced retirement of User Stream.  
 Hereby, I retire developing Twltrus.  
-Thank you.
+Thank you for using Twltrus.
 
 ## Feature
 - UserStream
@@ -30,6 +30,3 @@ Thank you.
 
 ## LastUpdate
 May/24/2018
-
-## Support Account
-[@Twltrus](https://twitter.com/Twltrus)
